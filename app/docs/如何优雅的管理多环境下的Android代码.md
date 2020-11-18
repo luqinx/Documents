@@ -177,6 +177,7 @@ public class DebugInit implements IInitService {
 }
 ```
 
+本文档涉及demo代码[点击这里](https://github.com/luqinx/Documents)查看
 
 
 
